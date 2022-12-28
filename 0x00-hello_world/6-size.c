@@ -1,5 +1,8 @@
 #include <stdio.h>
-int main() {
+
+/*Sizeof data types*/
+int main(void) 
+{
 	int intType;
 	long int LongintType;
 	long long int longLongintType;
