@@ -12,6 +12,6 @@ int main(void)
 
 	/*writing Mystr to stdout*/
 	puts(Mystr);
-	
+
 	return (0);
 }
