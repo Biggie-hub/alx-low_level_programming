@@ -8,9 +8,10 @@
 int main(void)
 {
 	/*string intialization*/
-	char Mystr[] = "Programming is like building a multilingual puzzle";
+	char Mystr[] = "\"Programming is like building a multilingual puzzle";
 
-	puts(Mystr); /*writing Mystr to stdout*/
-		
+	/*writing Mystr to stdout*/
+	puts(Mystr);	
+	
 	return (0);
 }
