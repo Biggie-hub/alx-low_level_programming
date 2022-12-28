@@ -1,2 +1,2 @@
 #!/bin/bash
-gcc -c 100-main.c
+gcc -S 100-main.c
