@@ -1,7 +1,11 @@
 #include <stdio.h>
 
-/*Sizeof data types*/
-int main(void) 
+/**
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
 	int intType;
 	long int LongintType;
