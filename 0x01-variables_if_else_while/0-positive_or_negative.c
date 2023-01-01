@@ -5,8 +5,9 @@
 /*
  * main - Entry point
  *
- * Return: Always 0 (Success)
  * Description: prints attribute of n
+ *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
