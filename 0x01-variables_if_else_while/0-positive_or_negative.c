@@ -5,9 +5,11 @@
 /*
  * main - Entry point
  *
- * Description: prints attribute of n
+ * Description: prints attribute of n.
+ * @if: tests the attribute of n.
  *
  * Return: Always 0 (Success)
+ *
  */
 int main(void)
 {
