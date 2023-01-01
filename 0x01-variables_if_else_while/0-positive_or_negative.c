@@ -13,6 +13,7 @@
  */
 int main(void)
 {
+	/* testing and printing attribute of n */
 	int n;
 
 	srand(time(0));
