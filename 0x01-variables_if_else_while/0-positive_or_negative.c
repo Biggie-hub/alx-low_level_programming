@@ -2,18 +2,15 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  *
  * Description: prints attribute of n.
- * @if: tests the attribute of n.
  *
  * Return: Always 0 (Success)
- *
  */
 int main(void)
 {
-	/* testing and printing attribute of n */
 	int n;
 
 	srand(time(0));
