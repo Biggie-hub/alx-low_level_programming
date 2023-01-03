@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <ctype.h>
 
 /**
  * main -Entry point
@@ -22,6 +23,12 @@ int main(void)
 		putchar(al[i]);
 		i++;
 	}
+
+	for (i = 0; i < 26; i++)
+	{
+		putchar(toupper(al[i]);
+	}
+
 	putchar('\n');
 
 	return (0);
