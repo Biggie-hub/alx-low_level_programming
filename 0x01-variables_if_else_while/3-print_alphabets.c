@@ -26,7 +26,7 @@ int main(void)
 
 	for (i = 0; i < 26; i++)
 	{
-		putchar(toupper(al[i]);
+		putchar(toupper(al[i]));
 	}
 
 	putchar('\n');
