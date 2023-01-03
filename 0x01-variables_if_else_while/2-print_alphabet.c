@@ -22,7 +22,7 @@ int main(void)
 		putchar(al[i]);
 		i++;
 	}
-	putchar("\n");
+	putchar('\n');
 
 	return (0);
 }
