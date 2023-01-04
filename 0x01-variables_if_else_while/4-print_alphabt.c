@@ -17,7 +17,7 @@ int main(void)
 
 	int i = 0;
 
-	while (i < 26)
+	while (i < 24)
 	{
 		putchar(al[i]);
 		i++;
